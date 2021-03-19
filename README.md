@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Pfeffervinc
+- 👀 I’m interested in technical development of devices & systems
+- 👀 I’m also interested in coding
+- 🌱 I’m currently learning a lot of C# techniques by just realizing ideas
